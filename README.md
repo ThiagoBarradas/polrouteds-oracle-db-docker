@@ -1,4 +1,4 @@
-## Getting Starter
+## Getting Started
 
 - 1: Clone this repo
 - 2: Download and unzip the follow file:
