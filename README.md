@@ -32,6 +32,8 @@ Exists a dotnet project to import data. You can found in ./importer, but it has 
 
 `docker exec -it --user=oracle oracle-partitions bash /tmp/scripts/setup.sh`
 
+And after it, execute dotnet project adjusting `csvDir` to point to csv dir.
+
 ## Database Tables
 
 - `PolRouteDS_crime`
